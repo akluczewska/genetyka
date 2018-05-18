@@ -1,0 +1,25 @@
+# Organizacja materiału genetycznego w komórce
+
+Komórkowa zawartość DNA to *genom*. 
+
+Genom prokariotyczny często jest długą, pojedynczą cząsteczką, genomy prokariotyczne często składają się z wielu takich cząstecze.
+
+Replikacja i rozmieszczenie dużych ilości DNA są możliwe przez upakowanie w chromosomy.
+
+W jądrach komórek somatycznych człowieka znajduje się 46 chromosomów podzielonych na 23 pary, z których każda pochodzi od innego rodzica.
+Gamety, komórki płciowe,zawierają połowę chromosomów komórek somatycznych.
+Chromosomy eukariotyczne zbudowane są z *chromatyny*, kompleksu DNA i towarzyszacych mu cząsteczek białka. Każdy chromosom zawiera jedną długą cząsteczkę DNA, która przenosi od kilkuset do kilku tysięcy genów.
+
+*Geny* określają cechy dziedziczne organizmu.
+
+Białka towarzyszące utrzymują strukturę chromosomu i pomagają kontrolować aktywnośc genów.
+
+---
+# Chromosomiki
+Kiedy komórka nie ma w planach podziału oraz gdy podwaja sobie DNA, chromosomy są rozplecione i mają formę długiego włókienka chromatyny. 
+Po duplikacji DNA chromosomy ulegają kondensacji - każde włókienko chromatyny zwija się i ciasno skręca, dzięki czemu możemy je zobaczyć pod mikroskopem świetlnym.
+Zduplikowany chromosom sklada się z dwóch *chromatyd siostrzanych* (rozwiewam wątpliwości, one płci nie mają, określenie jest tradycyjne).
+Skondensowany chromosom ma przewężenie w *centromerze*, regionie, w którym obie chromatydy są najmocniej połączone. 
+Części chromatydy wychodzące poza centromer określa się jako *ramiona*.
+
+# póki co nie chce mi się nad tym rozwlekać, zajmę się mutacjami a to niech sonie tu wisi i czeka na swoją kolej do dokończenia
