@@ -22,4 +22,4 @@ Zduplikowany chromosom sklada się z dwóch *chromatyd siostrzanych* (rozwiewam 
 Skondensowany chromosom ma przewężenie w *centromerze*, regionie, w którym obie chromatydy są najmocniej połączone. 
 Części chromatydy wychodzące poza centromer określa się jako *ramiona*.
 
-# póki co nie chce mi się nad tym rozwlekać, zajmę się mutacjami a to niech sonie tu wisi i czeka na swoją kolej do dokończenia
+# póki co nie chce mi się nad tym rozwlekać, zajmę się mutacjami a to niech sobie tu wisi i czeka na swoją kolej do dokończenia
