@@ -1,0 +1,24 @@
+*replikacja DNA* - proces powielania DNA prowadzący do wytworzenia dwóch cząsteczek DNA identycznych z cząsteczką macierzystą
+# cechy replikacji
+- zachodzi przzed *każdym* podziałem komórki - komórki potomne otrzymują dzięki temu kompletną informację genetyczną
+- *semikonserwatywna* - w powstającej cząsteczce jeden łańcuch pochodzi od starej nici, a drugi jest nowo zsyntetyzowany
+- dzięki niej powstają dwoe identyczne cząsteczki; nowe nukleotydy dobudowywane na zasadzie komplementarności
+- proces anaboliczny
+- bardzo dokładna, pomyłki we wstawianiu nukleotydów zdarzają się szalenie rzadko
+# enzymy biorące udzial w replikacji
+*helikaza DNA* - rozplata podwójną helisę przez rozerwanie wiązań wodorowych między nićmi DNA
+*prymaza* odpowoada za tworzenie starterów RNA na matrycy DNA; polimeraza RNA
+*polimerazy DNA* odpowoadają za syntezę nowej nici DNA; usuwają niewlaściwoe wstawione nukleotydy i zmieniają je na poprawne; niektóre polimerazy DNA wycinają startery RNA i wyoełniają "puste" miejsca nukleotydami DNA
+*ligaza* - łącxy nowo powstałe fragmenty nici DNA w jeden łańcuch
+
+STARTER - odcinek kwasu nukleinowego; do jego końca 3'(trzy prim) polimeraza DNA dołącza nowe nukleotydy
+
+# przebieg replikacji
+1. inicjacja - helikaza rozplata fragmenty DNA w miejscach inicjaji replikacji - powstają oczka rwplikacyjne; do widełek replikacyjnych dołączają się kolejne białka biorące udział e procesie replikacji
+2. elongacja; synteza startera RNA przez prymazę, dobudowywanie nukleotydów DNA przez polimerazę DNA ( kierunek 5'->3'; nić opóźniona syntetyzowana nieciągle[fragmenty Okazaki]); wycinanie starterìw i uzupełnianie przerw
+3. terminacja - gdy skopiowana jest cała cząsteczka; fragmenty nowo zsyntetyzowane połaczone w jedną calość przez ligazę; następnie odłączenie białek biorących udzial w procesie
+nić wiodąca - nić syntetyzowans zgodnie z kierunkiem ruchu wideĺek replikacyjnych
+nić opòźniona - nić syntetyzowana w kieru przeciwnym do ruchu widrłek
+widełki replikacyjne - miejsce gdzie DNA ulega rozpleceniu
+oczko replikacyjne - "dziura" powstała przez rozplecenie DNA
+telomery - wielokrotnie powtórzone kilkunukleotydowe odcinki DNAo takiej samej sekwencji, występują na końcach cząsteczek DNA, nie zawierają genów, ich odbudowa odbywa się dzięki telomerazie
