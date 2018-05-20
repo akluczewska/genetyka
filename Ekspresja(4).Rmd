@@ -1,0 +1,43 @@
+**ekspresja genów** - procesy orowadzące do odczytania info. genetycznej zawartej w genie czyli powstania kodowanego przez gen RNA lub białka; transkrypcja i translacja
+
+**transkrypcja** - proces syntezy łańcucha RNA na matrycy DNA; w komórce zachodzi tam, gdzie znajduje się DNA - u orokariotów w cytozolu, u eukariotów jądro komórkowe, mitochondria, plastydy(u roślin)
+
+**translacja** - tlumaczenie sekwencji nukleotydów w mRNA na sekwencję aminokwasów w łańcuchu polipeptydowym; synteza białka; zachodzi w cytoplazmie na rybosomach
+
+ekspresja genów zawierających informacje o budowie RNA zachodzi jednoetapowo podczas transkrypcji.
+Ekspresja genów niosących informację o budowie białka przebiega w dwóch etapach. W pierwszym (transkrypcji) powstaje mRNA; w drugim (translacji) mRNA jest wykorzystywany do syntezy białka
+# ekspresja genów
+## kod genetyczny
+**kod genetyczny** - sposób zapisu informacji genetycznej w DNA; określa zależność między sekwencją nukleotydóww DNA a kolejnością aminokwasównw łańcuchu polipeptydowym
+*kodon/triplet* - trzy kolejne nukleotydy w DNA i mRNA, oznaczające jeden aminokwas w łańcuchu polipeotydowym lub zatrzymanie syntezy białka
+### cechy kodu genetycznego
+- trójkowy
+- jednoznaczny
+- bezprzecinkowy
+- zdegenerowany
+- niezachodzący
+- uniwersalny
+
+## transkrypcja
+Transkrypcja jest przeprowadzana przez polimerazę RNA. Energia do syntezy RNA pochodzi z wiązań fosforanowych nukleotydów będących substratami reakcji. Powztały RNAjest komplementarny di nici DNA, zwanej matrycową.miejsca rozpoczęcia i zakończdnia transkrypcji wyznaczają *promotor* - sekwencja regulatorowa genu znajdująca się przed odcinkiem ulegającym transkrypcji oraz sekwencja regulatorowa genu położonaza odcinkiem ulegajacym transpcji, która bierze udział w zakończeniu transkrypcji.
+### przebieg transkrypcji
+- polimeraza RNA przylącza się do promotora genu i powoduje miejscowe rozplecenie cząst. DNA
+- polimeraza RNA przesuwa się wzdłuż DNA, rozplatając go i dobudowując kolejne nukleotydydo powstającego RNA. po ukonczeniu transkrypcji rozplecione nici DNA ponownie splatają się, tworząc podwójną helisę.
+- polimeraza RNA odłącza się od genu, utworzone RNA zostaje uwolnione
+### odwrotna transkrypcja
+Proces syntezy DNA na matrycy RNA. Bierze udział enzym *odwrotna transkryptaza*.
+Zachodzi w cyklu infekcyjnym retrowirusów oraz w czasie wydluzania zakończeń chromosomów w komórkach eukariotycznych.
+
+## translacja
+Przebieg: 
+- inicjacja: do kodonu START przyłącza się mniejsza jednostka rybosomu, aminoacylo-tRNA z odpowiednim antykodonem oraz metionimpną, następnie większa jednostka rybosomu.
+- elongacja: do miejsca A przyłącza się nowy aa-tRNA; wiązanie między tRNA a aminokwasem zostaje zerwane, aminokwas zistaje przeniesiony do miejsca a; pomiędzy aminokwasami powstaje wiązanie peptydowe; następuje przesunięcie rybosomu względem mRNA o jeden kodon, wolny tRNA przesuwa się na miejsce E i odłącza od rybosomu, peptydylo-tRNA przesuwa się na miejsce P; rozpoczyna się kolejny cykl elongacji
+- terminacja - do kodonu STOP przyłącza się czynnik uwalniający, rybosom zrywa wiązanie tRNA z łańcuchem polipeptydowym, następuje uwolnienie tRNA i polipeptydu, rybosom rozpada się na dwie podjednostki, odłacza się od niego mRNA i czynnik uwalniający
+*czynnik uwalniający* - białko, które kształtem przypomina tRNA, rozpoznaje kodon stop w mRNA i przekazuje do rybosomu sygnał o zakończeniu translacji
+
+### modyfikacje potranslacyjne białek
+- zmiany prowadzące do uzyskania przez białko odpowiedniego kształtu, aby stało się aktywne biologicznie
+- usunięcie niektórych aminokwasów z łańcucha polipeptydowego
+- przyłączanie odpowiednich grup chemicznych do aminokwasów
+### kierowanie białek
+Proces dostarczania białek do odpowiedniego miejsca w komórce lub miejsca wydzielania ich poza komórkę. Sekwencja sygnałowa/kierująca jest "drogowskazem" co do tego, gdzie należy dostarczyć białko.
