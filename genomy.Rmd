@@ -1,0 +1,24 @@
+# Geny
+## struktura genu
+W genie wyróżnia się: sekwencje kodujące, które wyznaczają kolejniść aminokwasów w łańcuchu polipeptydowym
+ lub kolejność  ukleotydów w kodowanym RNA; sekwencje niekodujące, które nie zawierają info. o budowie wytwarzanej cząsteczki, są to części regulatorowe genu i introny.
+ *GEN* - fragment cząst. DNA, któryvzaowera infi. potrzebne do wytworzenia jednego łańcucha polipeptydowego lub jednej cząsteczki RNA. Podstawowa jednostka dziedziczności.
+ *ekson* - odcinek genu kodujący info. genetyczną
+ *intron* - odcinek genu niepełniący funkcji kodującej
+ ## rodzaje genów
+ ### geny nieciągłe
+ - głównie u org. eukariotycznych, 
+ - wyróżnia się w nich część strukturalną (eksony i introny) oraz części regulatorowe (regulacja ekspersji info. genetycznej)
+ ### geny ciągłe
+ - głównie u org. orikariotycznych
+ - część strukturalna(zaw. sekwencje kodujące) + część regulatorowa(regulowanie ekspresji info. genetycznej)
+ # Genomy
+ *genom* - kompletna informacja genetyczna organizmu lub wirusa; sklada się z genów i pozagenowego DNA, czyli odc. DNA znajdujących się pomiędzy genami
+ ## budowa genomu
+ ### geny
+ - części strukturalne: eksony i introny
+ - części regulatorowe
+ ### DNA pozagenowy
+ - pseudogeny - fragmenty DNA o sekwencji podobnej do genów
+ - sekwencje powtarzalne - odc. DNA zaw. powtarzające się sekwencje nukleotydów
+ - pozostałe sekwencje DNA pozagenowego
