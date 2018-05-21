@@ -1,11 +1,19 @@
 **allel** - jedna z wersji genu, różni dię od pozostałych sekwencją nukleotydów
+
 **genotyp** - zespół wszystkich genów organizmów lub zapis alleli danego genu
+
 **fenotyp** - cecha lub zespół cech zależnych od genotyou i środowiska
+
 **allel recesywny** - wersja genu ujawniająca się w fenotypie homozygot recesywnych
+
 **allel dominujący** - -//- w femotypien homozygot dominujących i heterozygot
+
 **heterozygota** - org. diploidalny z dwoma róznymi allelami tego samego genu
+
 **homozygota** - -//- dwa allele tego samego genu
+
 **osobniki czystej linii** - homozygoty pod wzgl. danej cechy
+
 # chromosomowa teoria dziedziczenia
 - geny znajdują się w chromosomach, gdzie ułożone są liniowo
 - każdy gen ma określone muejsce, *locus*
@@ -49,5 +57,6 @@ co najmniej trzy allele jednego genu występujące w populacji danego gatunku; n
 ## dziedziczenie pozajądrowe
 Dziedziczenie w sposób inny niż przez geny znajdujące sie w chromosomach.. Bierze udział w nim genom organellowy(z mitochondriów i plastydów). Niezgodne z prawami mendla. Geny w organellach przekazywane przez gametę, której cytoplazma uczestniczy w powstawaniu zygoty. Inaczej *dziedziczenie matczyne*.
 ### dziedziczenie genomu mitochondrialnego
+Dziedziczymy mitochondria po matce, część plemnika zawierająca mitochondria, z tego co mi wiadomo, nie wnika do komórki jajowej przy zaplodnieniu.
 ### dziedziczenie genomu chloroplastowego
 To nas nie dotyczy.
