@@ -1,0 +1,53 @@
+**allel** - jedna z wersji genu, różni dię od pozostałych sekwencją nukleotydów
+**genotyp** - zespół wszystkich genów organizmów lub zapis alleli danego genu
+**fenotyp** - cecha lub zespół cech zależnych od genotyou i środowiska
+**allel recesywny** - wersja genu ujawniająca się w fenotypie homozygot recesywnych
+**allel dominujący** - -//- w femotypien homozygot dominujących i heterozygot
+**heterozygota** - org. diploidalny z dwoma róznymi allelami tego samego genu
+**homozygota** - -//- dwa allele tego samego genu
+**osobniki czystej linii** - homozygoty pod wzgl. danej cechy
+# chromosomowa teoria dziedziczenia
+- geny znajdują się w chromosomach, gdzie ułożone są liniowo
+- każdy gen ma określone muejsce, *locus*
+- allele jednego genu zajmują w chromosomach homologicznych to samo miejsce
+- geny znajdujące się w jednym chromisomie=geny sprzężone, z reguły trafiają do tej samej gamety(niezgodnie z prawem mendla)
+- *cechy sprzężone* - cechy warunkowane przez geny sprzężone
+- allele genów sprzężonych mogą się rozdzielić wskutek *crossing over*
+## geny niesprzężone
+- znajdują się w różnych chromosomach
+## geny sprzężone
+- jeżeli allele dwóch genów znajdują się w jednhm chromosomie, przechodzą do gamet razem - niezgodnie z 2 prawem mendla
+### rekombinacja w wypadku genów sprzężonych
+- allele genów moga zostać rozdzielone wskutek crossing over-następuje wymiana fragmentów chromoskmów między chromosomami homologicznymi, powstają 4 typy gamet: dwa mają taki sam układ alleli jak chromosomy rodzielskie, dwa zawierają inne kombinacje alleli niż chromosomy rodzicielskie
+# dziedziczenie płci
+*romodomy płci* - warunkują płeć; u kobiet xx, u mężczyzn xy
+*autosomy* - wszystkie chromosomy z wyjątkiem chromosomów płci 
+## determinacja płci u człowieka
+Płeć jest determinowana genetycznie, decydują o niej geny zawarte w chromosomie Y, najważniejszym z nich jest SRY; płeć męską determinuje obecność chromosomu Y, żeńską-jego brak.
+## cechy sprzężone z płcią
+*cechy sprzężone z płcią* - cechy determinowane przez geny położone w chromosomie X
+*geny sprzężone z płcią* - geny położone w chromosomie X
+# inne sposoby dziedziczenia
+## dziedziczenie jednogenowe
+*dziedziczenie jednogenowe* - sposób dziedziczenia, w którym jedna cecha zależy od pojedynczego genu
+*dominacja zupełna* - jeden allel pełni rolę dominującego nad drugim. fenotyp heterozygoty tski sam jak fenotyp homozygoty dominującej.
+### dominacja niezupełna
+Dziedziczenie jednogenowe, w którym jeden alkel nie dominuje w pełni nad drugim; fenityo heterozygoty inny od fenotypów homozygot
+### kodominacja
+Dziedziczenie jednogemowe, w którym dwa różne allele tego samego genu są równorzędne wzglęeem siebie; u heterozygot obie cechy pojawiają się jednocześnie i nie są zależne od siebie
+### allele wielokrotne
+co najmniej trzy allele jednego genu występujące w populacji danego gatunku; np dziedziczenie grupy krwi
+## dziedziczenie wielogenowe - jedna cecha zależy od wielu genów
+### geny kumulatywne
+- warunkują wytworzehie jednej cechy, a wywolywane cechy kumulują się; cechy ilościowe-wzrost, masa organizmu, barwa skóry
+### geny dopełniające się/komplementarne
+- współdziałanie konieczne do wystąpienia jakiejś jednej cechy
+### epistaza
+- działanie jednego genu wplywa na ujawnienie się cechy warunkowanej przez inny gen
+### plejotropia
+- pod wplywem genu plejotropowego ujawnia się kilka cech fenotypowych; anemia sierpowata, mukowiscydoza
+## dziedziczenie pozajądrowe
+Dziedziczenie w sposób inny niż przez geny znajdujące sie w chromosomach.. Bierze udział w nim genom organellowy(z mitochondriów i plastydów). Niezgodne z prawami mendla. Geny w organellach przekazywane przez gametę, której cytoplazma uczestniczy w powstawaniu zygoty. Inaczej *dziedziczenie matczyne*.
+### dziedziczenie genomu mitochondrialnego
+### dziedziczenie genomu chloroplastowego
+To nas nie dotyczy.
