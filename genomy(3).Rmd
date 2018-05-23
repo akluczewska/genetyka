@@ -10,7 +10,7 @@ W genie wyróżnia się: sekwencje kodujące, które wyznaczają kolejniść ami
  - głównie u org. eukariotycznych, 
  - wyróżnia się w nich część strukturalną (eksony i introny) oraz części regulatorowe (regulacja ekspersji info. genetycznej)
  ### geny ciągłe
- - głównie u org. orikariotycznych
+ - głównie u org. prokariotycznych
  - część strukturalna(zaw. sekwencje kodujące) + część regulatorowa(regulowanie ekspresji info. genetycznej)
  # Genomy
  *genom* - kompletna informacja genetyczna organizmu lub wirusa; sklada się z genów i pozagenowego DNA, czyli odc. DNA znajdujących się pomiędzy genami
